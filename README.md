@@ -26,14 +26,6 @@ Building scalable web applications and creating solutions for real-world problem
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishagrawal25&layout=compact&theme=transparent" />
-</p>
 
 ---
 
