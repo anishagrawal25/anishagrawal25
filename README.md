@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Anisha Agrawal
 
-<!--
-**anishagrawal25/anishagrawal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🎓 B.Tech Computer Science Student  
+🚀 Passionate about building impactful web applications and solving real-world problems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Full Stack web applications and open-source projects.
+- 🌱 I'm currently learning System Design, Backend Development, and Cloud.
+- 👯 I'm looking to collaborate on open-source and full-stack projects.
+- 💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, Git, and DSA.
+- 📫 Reach me: www.linkedin.com/in/anisha-agrawal-26151b314
+- ⚡ Fun fact: I love turning ideas into real-world applications through code.
