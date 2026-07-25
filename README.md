@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anisha Agrawal</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Open Source Contributor • B.Tech CSE Student</b>
+<b>Full Stack Developer • Open Source Contributor • B.Tech CSE Student</b>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Building scalable web applications and creating solutions for real-world problem
 - 🌱 Currently learning **System Design, Backend Development, and Cloud**
 - 🚀 Building **Full Stack Applications**
 - 🤝 Contributing to **Open Source Projects**
-- 🏅 **GSSoC'26 Contributor**
+- 🏅 Current **GSSoC'26 Contributor**
 - 💡 Passionate about **Web Development, Backend Systems, and DSA**
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Git, and DSA**
 
@@ -24,33 +24,28 @@ Building scalable web applications and creating solutions for real-world problem
 ## 🚀 Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
 ### Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### Tools & Platforms
-
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -64,37 +59,12 @@ Building scalable web applications and creating solutions for real-world problem
 
 ---
 
-## 🏆 Achievements
+## 🤝 Connect with Me
 
-- 🌟 Open Source Contributor
-- 🏅 GSSoC'26 Contributor
-- 🚀 Active GitHub Developer
-- 💻 Consistent DSA Learner
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anishagrawal25&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
 <a href="https://www.linkedin.com/in/anisha-agrawal-725750378/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
 </a>
-</p>
 
 ---
 
-<p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
