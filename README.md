@@ -61,7 +61,7 @@ Building scalable web applications and creating solutions for real-world problem
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/anisha-agrawal-725750378/">
+<a href="https://www.linkedin.com/in/anisha-agrawal-725750378/" target="_blank">
   <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
 </a>
 
