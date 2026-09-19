@@ -17,7 +17,7 @@ Building scalable web applications and creating solutions for real-world problem
 - 🤝 Contributing to **Open Source Projects**
 - 🏅 Current **GSSoC'26 Contributor**
 - 💡 Passionate about **Web Development, Backend Systems, and DSA**
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Git, and DSA**
+
 
 ---
 
