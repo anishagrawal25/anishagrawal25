@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anisha Agrawal</h1>
+<h1 align="center">Hi , I'm Anisha Agrawal</h1>
 
 <p align="center">
 <b>Full Stack Developer • Open Source Contributor • B.Tech CSE Student</b>
@@ -10,18 +10,18 @@ Building scalable web applications and creating solutions for real-world problem
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🌱 Currently learning **System Design, Backend Development, and Cloud**
-- 🚀 Building **Full Stack Applications**
-- 🤝 Contributing to **Open Source Projects**
-- 🏅 Current **GSSoC'26 Contributor**
-- 💡 Passionate about **Web Development, Backend Systems, and DSA**
+- Currently learning **System Design, Backend Development, and Cloud**
+- Building **Full Stack Applications**
+- Contributing to **Open Source Projects**
+- Current **GSSoC'26 Contributor**
+- Passionate about **Web Development, Backend Systems, and DSA**
 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -50,16 +50,16 @@ Building scalable web applications and creating solutions for real-world problem
 
 ---
 
-## 🔥 Currently Working On
+## Currently Working On
 
-- 💻 Full Stack Projects
-- 🌍 Open Source Contributions
-- 📚 Data Structures & Algorithms
-- ☁️ Cloud & System Design
+- Full Stack Projects
+- Open Source Contributions
+- Data Structures & Algorithms
+- Cloud & System Design
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <a href="https://www.linkedin.com/in/anisha-agrawal-725750378/" target="_blank">
   <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
@@ -67,4 +67,4 @@ Building scalable web applications and creating solutions for real-world problem
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
