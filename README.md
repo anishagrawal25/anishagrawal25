@@ -136,10 +136,12 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 * Scalable Application Development
 
 ---
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/anishagrawal25">
+    <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&cache_seconds=1800" alt="Anisha's GitHub Stats"/>
+  </a>
 </p>
 
 ---
@@ -151,13 +153,23 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 
 ---
 
-## Connect with Me
+## GitHub Activity
 
-<a href="https://www.linkedin.com/in/anisha-agrawal05" target="_blank">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn" />
-</a>
-&nbsp; Email: your-email@example.com
+<p align="center">
+  <a href="https://github.com/anishagrawal25">
+    <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&cache_seconds=1800" alt="Anisha's GitHub Stats"/>
+  </a>
+</p>
 
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/anishagrawal-725750378/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 ---
 
 <p align="center">Thanks for visiting! Feel free to explore my repositories.</p>
