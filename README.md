@@ -136,27 +136,28 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 * Scalable Application Development
 
 ---
-
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## Open to Collaborate
+## Currently Learning
 
-Open to collaborating on:
-
-**Open Source • AI Applications • Backend Projects • Developer Tools • Hackathons**
+- System Design and Cloud
+- Data Structures & Algorithms ([my DSA journey](https://github.com/anishagrawal25/dsa_journey))
 
 ---
 
-## Connect
+## Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/anishagrawal-725750378/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/anishagrawal25">GitHub</a>
-</p>
+<a href="https://www.linkedin.com/in/anisha-agrawal05" target="_blank">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn" />
+</a>
+&nbsp; Email: your-email@example.com
+
+---
+
+<p align="center">Thanks for visiting! Feel free to explore my repositories.</p>
