@@ -136,16 +136,6 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 * Scalable Application Development
 
 ---
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/anishagrawal25">
-    <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&cache_seconds=1800" alt="Anisha's GitHub Stats"/>
-  </a>
-</p>
-
----
-
 ## Currently Learning
 
 - System Design and Cloud
