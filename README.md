@@ -7,13 +7,6 @@
 <p align="center">
   B.Tech CSE student building practical software, exploring AI, and learning through real-world projects.
 </p>
-
-<p align="center">
-  <a href="https://github.com/anishagrawal25">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/anisha-agrawal-725750378/">LinkedIn</a>
-</p>
-
 ---
 
 ## About Me
