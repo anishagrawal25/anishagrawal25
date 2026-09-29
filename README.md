@@ -7,7 +7,7 @@
 <p align="center">
   B.Tech CSE student building practical software, exploring AI, and learning through real-world projects.
 </p>
----
+
 
 ## About Me
 
