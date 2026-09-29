@@ -1,70 +1,169 @@
-<h1 align="center">Hi , I'm Anisha Agrawal</h1>
+<h1 align="center">Hi, I'm Anisha Agrawal</h1>
 
 <p align="center">
-<b>Full Stack Developer • Open Source Contributor • B.Tech CSE Student</b>
+  <b>Software Developer • AI Enthusiast • Open Source Contributor</b>
 </p>
 
 <p align="center">
-Building scalable web applications and creating solutions for real-world problems.
+  B.Tech CSE student building practical software, exploring AI, and learning through real-world projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/anishagrawal25">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/anisha-agrawal-725750378/">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-- Currently learning **System Design, Backend Development, and Cloud**
-- Building **Full Stack Applications**
-- Contributing to **Open Source Projects**
-- Current **GSSoC'26 Contributor**
-- Passionate about **Web Development, Backend Systems, and DSA**
-
+* B.Tech CSE student at **Kalvium**, pursuing Software Product Engineering
+* Interested in **Software Development, Backend Systems, AI, and Open Source**
+* Building AI-powered applications that solve practical problems
+* **GSSoC'26 Contributor** with 5 merged open-source contributions
+* Technical Team Co-Lead at **Technosmart Club**
+* Interested in understanding the reasoning behind technical decisions, not just implementing them
+* Currently exploring **System Design, Cloud, Backend Architecture, and AI Agents**
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 </p>
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend
+### Backend & APIs
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,prisma" />
 </p>
 
-### Tools
+### Tools & Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" />
 </p>
 
 ---
 
-## Currently Working On
+## Featured Projects
 
-- Full Stack Projects
-- Open Source Contributions
-- Data Structures & Algorithms
-- Cloud & System Design
+### Nexora — AI Career Readiness Platform
+
+An AI-powered platform that analyzes resumes, identifies skill gaps, and evaluates internship eligibility to provide personalized career-readiness insights.
+
+**Tech:** React, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, JWT, Cloudinary, Gemini API
+
+**Highlights**
+
+* Independently designed and developed the platform
+* Built a dual-database architecture for structured application data and flexible AI-generated data
+* Implemented JWT authentication and backend authorization
+* Integrated Gemini API for AI-powered resume analysis
+* Worked on database queries, API integration, validation, and centralized error handling
+
+[Repository](https://github.com/anishagrawal25/Nexora)
 
 ---
 
-## Connect with Me
+### DevPulse — Productivity & Career Development Platform
 
-<a href="https://www.linkedin.com/in/anisha-agrawal-725750378/" target="_blank">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
-</a>
+A platform that helps students turn long-term career goals into actionable tasks, track progress, and maintain consistency through reminders and performance insights.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js, Gemini API, Node Cron, Docker
+
+**Highlights**
+
+* Independently developed the application
+* Designed database relationships for users, goals, activities, and progress
+* Implemented authentication and progress tracking
+* Built scheduled reminder workflows
+* Integrated AI-assisted roadmap generation
+
+[Repository](https://github.com/anishagrawal25/devpulse)
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+
+## Open Source
+
+### GSSoC'26 Contributor
+
+Contributing to open-source projects through **GirlScript Summer of Code 2026**.
+
+**5 Pull Requests | 5 Merged**
+
+Contributions across:
+
+* **ytm-miniplayer**
+* **KalaOS**
+* **iloveAgents**
+* **Find**
+
+Worked on bug fixes, documentation improvements, repository structure, and testing enhancements.
+
+[View GitHub Contributions](https://github.com/anishagrawal25)
+
+---
+
+## Areas of Interest
+
+* Software Development
+* Backend Systems and APIs
+* Artificial Intelligence
+* Database Systems
+* System Design
+* Open Source Development
+
+---
+
+## Currently Learning
+
+* System Design and Backend Architecture
+* Cloud Technologies
+* Data Structures and Algorithms
+* AI and AI Agents
+* Scalable Application Development
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+## Open to Collaborate
+
+Open to collaborating on:
+
+**Open Source • AI Applications • Backend Projects • Developer Tools • Hackathons**
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/anishagrawal-725750378/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/anishagrawal25">GitHub</a>
+</p>
