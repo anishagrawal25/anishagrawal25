@@ -15,7 +15,6 @@
 * Interested in **Software Development, Backend Systems, AI, and Open Source**
 * Building AI-powered applications that solve practical problems
 * **GSSoC'26 Contributor** with 5 merged open-source contributions
-* Technical Team Co-Lead at **Technosmart Club**
 * Interested in understanding the reasoning behind technical decisions, not just implementing them
 * Currently exploring **System Design, Cloud, Backend Architecture, and AI Agents**
 
@@ -146,9 +145,7 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/anishagrawal25">
-    <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&cache_seconds=1800" alt="Anisha's GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
