@@ -111,7 +111,7 @@ Contributions across:
 
 Worked on bug fixes, documentation improvements, repository structure, and testing enhancements.
 
-[View GitHub Contributions](https://github.com/anishagrawal25)
+
 
 ---
 
@@ -141,15 +141,6 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 - Data Structures & Algorithms ([my DSA journey](https://github.com/anishagrawal25/dsa_journey))
 
 ---
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishagrawal25&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## Connect
 
 <p>
