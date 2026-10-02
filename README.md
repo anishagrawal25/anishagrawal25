@@ -144,7 +144,7 @@ Worked on bug fixes, documentation improvements, repository structure, and testi
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/anishagrawal-725750378/" target="_blank">
+  <a href="https://www.linkedin.com/in/anisha-agrawal05/" target="_blank">
     <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
