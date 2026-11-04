@@ -1,153 +1,104 @@
-<h1 align="center">Hi, I'm Anisha Agrawal</h1>
+# Hi, I'm Anisha Agrawal
 
-<p align="center">
-  <b>Software Developer • AI Enthusiast • Open Source Contributor</b>
-</p>
+### Software Product Engineering Student | Full-Stack & AI Application Developer | Open-Source Contributor
 
-<p align="center">
-  B.Tech CSE student building practical software, exploring AI, and learning through real-world projects.
-</p>
+I build practical software applications with a focus on backend engineering, AI integration, and solving real-world problems.
 
+Currently pursuing B.Tech in Computer Science Engineering at **Kalvium**, exploring software architecture, scalable systems, and AI-powered applications.
 
 ## About Me
 
-* B.Tech CSE student at **Kalvium**, pursuing Software Product Engineering
-* Interested in **Software Development, Backend Systems, AI, and Open Source**
-* Building AI-powered applications that solve practical problems
-* **GSSoC'26 Contributor** with 5 merged open-source contributions
-* Interested in understanding the reasoning behind technical decisions, not just implementing them
-* Currently exploring **System Design, Cloud, Backend Architecture, and AI Agents**
-
----
+- B.Tech CSE student at Kalvium, pursuing Software Product Engineering.
+- Interested in backend engineering, full-stack development, and AI applications.
+- Building applications that integrate AI into practical workflows.
+- GSSoC'26 Contributor with 5 merged pull requests.
+- Interested in understanding system architecture, engineering decisions, and problem-solving.
 
 ## Technical Skills
 
-### Languages
+**Languages**
+- Python, Java, JavaScript, TypeScript, C++
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
-</p>
+**Frontend Development**
+- React.js, Next.js, Vite, Tailwind CSS
 
-### Frontend
+**Backend Development**
+- Node.js, Express.js, REST APIs, JWT Authentication, Auth.js
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+**Databases & ORM**
+- PostgreSQL, MongoDB, Prisma
 
-### Backend & APIs
+**AI & Integration**
+- Gemini API, AI-powered applications, AI Agents, RAG-based systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,prisma" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" />
-</p>
-
----
+**Tools & Platforms**
+- Git, GitHub, Docker, Postman, Vercel
 
 ## Featured Projects
 
-### Nexora — AI Career Readiness Platform
+### 1. Nexora — AI Career Readiness Platform
 
-An AI-powered platform that analyzes resumes, identifies skill gaps, and evaluates internship eligibility to provide personalized career-readiness insights.
+An AI-powered platform that analyzes resumes, identifies skill gaps, and evaluates internship and placement readiness.
 
-**Tech:** React, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, JWT, Cloudinary, Gemini API
+**Key Highlights**
+- Integrated Gemini API for AI-powered resume analysis.
+- Designed a dual-database architecture using PostgreSQL and MongoDB.
+- Implemented JWT authentication and backend authorization.
+- Built personalized career-readiness insights.
 
-**Highlights**
+**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, JWT, Gemini API.
 
-* Independently designed and developed the platform
-* Built a dual-database architecture for structured application data and flexible AI-generated data
-* Implemented JWT authentication and backend authorization
-* Integrated Gemini API for AI-powered resume analysis
-* Worked on database queries, API integration, validation, and centralized error handling
+[GitHub Repository](https://github.com/anishagrawal25/Nexora) | [Live Demo](https://nexora-blush-two-24.vercel.app/)
 
-[Repository](https://github.com/anishagrawal25/Nexora)
+### 2. DevPulse — Productivity & Career Development Platform
 
----
+A student-focused platform that helps users organize career goals, track progress, manage learning activities, and stay consistent through reminders.
 
-### DevPulse — Productivity & Career Development Platform
+**Key Highlights**
+- Designed database relationships for users, goals, activities, and progress.
+- Implemented authentication and progress tracking.
+- Built scheduled reminder workflows using Node Cron.
+- Integrated AI-assisted roadmap generation.
 
-A platform that helps students turn long-term career goals into actionable tasks, track progress, and maintain consistency through reminders and performance insights.
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js, Gemini API, Node Cron, Docker.
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js, Gemini API, Node Cron, Docker
+[GitHub Repository](https://github.com/anishagrawal25/devpulse) | [Live Demo](https://devpulse-brown.vercel.app/)
 
-**Highlights**
+### 3. KannadaConnect — AI-Powered Kannada Communication Assistant
 
-* Independently developed the application
-* Designed database relationships for users, goals, activities, and progress
-* Implemented authentication and progress tracking
-* Built scheduled reminder workflows
-* Integrated AI-assisted roadmap generation
+A practical language assistance platform designed to help non-Kannada speakers communicate confidently in everyday situations across Karnataka.
 
-[Repository](https://github.com/anishagrawal25/devpulse)
+**Key Highlights**
+- Generates useful Kannada phrases with English translations.
+- Provides guided language practice and real-world conversations.
+- Includes voice-based interaction and speaking practice.
 
----
+**Tech Stack:** JavaScript, AI Integration.
 
+[GitHub Repository](https://github.com/anishagrawal25/KannadaConnect) | [Live Demo](https://kannada-connect-ten.vercel.app/)
 
+## Open Source Contributions
 
-## Open Source
+**GirlScript Summer of Code 2026 — Contributor**
 
-### GSSoC'26 Contributor
+- 5 merged pull requests across 5 repositories.
+- Contributed to Docusaurus, KalaOS, iloveAgents, Find, and ytm-miniplayer.
+- Worked on bug fixes, documentation improvements, repository enhancements, and testing.
 
-Contributing to open-source projects through **GirlScript Summer of Code 2026**.
+## Currently Exploring
 
-**5 Pull Requests | 5 Merged**
+- System Design and Backend Architecture
+- Cloud Technologies and Deployment
+- Data Structures and Algorithms
+- AI Agents and RAG Systems
+- Scalable Application Development
 
-Contributions across:
+## Connect With Me
 
-* **ytm-miniplayer**
-* **KalaOS**
-* **iloveAgents**
-* **Find**
-
-Worked on bug fixes, documentation improvements, repository structure, and testing enhancements.
-
-
-
----
-
-## Areas of Interest
-
-* Software Development
-* Backend Systems and APIs
-* Artificial Intelligence
-* Database Systems
-* System Design
-* Open Source Development
+- [LinkedIn](https://www.linkedin.com/in/anisha-agrawal05/)
+- [GitHub](https://github.com/anishagrawal25)
+- [Portfolio](https://anisha-portfolio-seven.vercel.app/)
 
 ---
 
-## Currently Learning
-
-* System Design and Backend Architecture
-* Cloud Technologies
-* Data Structures and Algorithms
-* AI and AI Agents
-* Scalable Application Development
-
----
-## Currently Learning
-
-- System Design and Cloud
-- Data Structures & Algorithms ([my DSA journey](https://github.com/anishagrawal25/dsa_journey))
-
----
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/anisha-agrawal05/" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-</p>
----
-
-<p align="center">Thanks for visiting! Feel free to explore my repositories.</p>
+*Thanks for visiting my profile. Feel free to explore my projects and contributions!*
